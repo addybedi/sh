@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://addybedi.github.io/sh/static/css/main.d9236649.chunk.css",
+    "main.js": "https://addybedi.github.io/sh/static/js/main.0d3cb1e8.chunk.js",
+    "main.js.map": "https://addybedi.github.io/sh/static/js/main.0d3cb1e8.chunk.js.map",
+    "runtime-main.js": "https://addybedi.github.io/sh/static/js/runtime-main.1852d50e.js",
+    "runtime-main.js.map": "https://addybedi.github.io/sh/static/js/runtime-main.1852d50e.js.map",
+    "static/js/2.10566fab.chunk.js": "https://addybedi.github.io/sh/static/js/2.10566fab.chunk.js",
+    "static/js/2.10566fab.chunk.js.map": "https://addybedi.github.io/sh/static/js/2.10566fab.chunk.js.map",
+    "static/js/3.630a5089.chunk.js": "https://addybedi.github.io/sh/static/js/3.630a5089.chunk.js",
+    "static/js/3.630a5089.chunk.js.map": "https://addybedi.github.io/sh/static/js/3.630a5089.chunk.js.map",
+    "index.html": "https://addybedi.github.io/sh/index.html",
+    "static/css/main.d9236649.chunk.css.map": "https://addybedi.github.io/sh/static/css/main.d9236649.chunk.css.map",
+    "static/js/2.10566fab.chunk.js.LICENSE.txt": "https://addybedi.github.io/sh/static/js/2.10566fab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1852d50e.js",
+    "static/js/2.10566fab.chunk.js",
+    "static/css/main.d9236649.chunk.css",
+    "static/js/main.0d3cb1e8.chunk.js"
+  ]
+}
